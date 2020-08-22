@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="aspose.slides-15.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aspose.slides-15.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspose-cells-8.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspose-words-16.8.0-jdk16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itextpdf-5.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacob.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jodconverter-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/juh-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jurt-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ridl-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-jdk14-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unoil-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/aspose-words-16.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
